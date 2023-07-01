@@ -1,0 +1,26 @@
+.jumbotron {
+  padding-top: 20vh;
+  background-color: #c3f0f0;
+}
+
+#about {
+  padding-top: 17vh;
+}
+
+#projects {
+  padding-top: 5vh;
+}
+
+#contact {
+  padding-top: 10vh;
+}
+
+#projects {
+  padding-top: 1vh;
+  background-color: #c3f0f0;
+}
+
+.footer {
+  padding-top: 1vh;
+  background-color: #02c6c6;
+}
