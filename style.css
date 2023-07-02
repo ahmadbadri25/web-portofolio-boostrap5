@@ -24,3 +24,11 @@
   padding-top: 1vh;
   background-color: #02c6c6;
 }
+
+.gallery-img {
+  width: 100%;
+}
+
+#gallery .row > * {
+  padding: 0;
+}
